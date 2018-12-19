@@ -2,10 +2,15 @@
   "name": "form-send-email",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "prop-types": "15.6.1",
+    "react-alert": "4.0.4",
+    "react-alert-template-basic": "1.0.0",
+    "react-transition-group": "2.3.1"
   },
   "scripts": {
     "start": "react-scripts start",
